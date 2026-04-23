@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.808189cd.css",
+    "main.js": "/static/js/main.a00459a1.js",
+    "static/js/239.5c6e2db3.chunk.js": "/static/js/239.5c6e2db3.chunk.js",
+    "static/js/213.27ff96b9.chunk.js": "/static/js/213.27ff96b9.chunk.js",
+    "static/js/732.1a0511c7.chunk.js": "/static/js/732.1a0511c7.chunk.js",
+    "static/media/logo-cadeya.jpg": "/static/media/logo-cadeya.bba6ccb4f67b8bec3a43.jpg",
+    "index.html": "/index.html",
+    "main.808189cd.css.map": "/static/css/main.808189cd.css.map",
+    "main.a00459a1.js.map": "/static/js/main.a00459a1.js.map",
+    "239.5c6e2db3.chunk.js.map": "/static/js/239.5c6e2db3.chunk.js.map",
+    "213.27ff96b9.chunk.js.map": "/static/js/213.27ff96b9.chunk.js.map",
+    "732.1a0511c7.chunk.js.map": "/static/js/732.1a0511c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.808189cd.css",
+    "static/js/main.a00459a1.js"
+  ]
+}
