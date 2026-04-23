@@ -716,7 +716,7 @@ function exportPDF(blend, persons) {
     window.addEventListener('load', () => {
       setTimeout(() => window.print(), 600);
     });
-  <\/script>
+  ${'<'}/script>
 </body>
 </html>`;
 
